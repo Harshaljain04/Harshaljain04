@@ -132,7 +132,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshaljain04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshaljain04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaljain04&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
+<p align = "center"><a href="https://github.com/Harshaljain04/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Harshaljain04&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
 
 <br/>  
 
