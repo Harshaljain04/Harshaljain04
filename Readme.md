@@ -132,9 +132,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harshaljain04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaljain04&layout=compact&theme=highcontrast&count_private=true&hide_border=true" alt="Top Languages"/></p>
-<p align = "center"><a href="https://github.com/Harshaljain04/github-readme-activity-graph"><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Harshaljain04&bg_color=000000&color=FFFF00&line=f78800&point=FFFFFF&hide_border=true" /></a></p>
+<a href="https://github.com/Harshaljain04">
+  <a href="https://git.io/streak-stats">
+  <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Harshaljain04&theme=highcontrast&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaljain04&theme=highcontrast&layout=donut&show_icons=true" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Harshaljain04&theme=highcontrast&show_icns=true" /></a></p>
+  <p align="center">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshaljain04&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
 
 <br/>  
 
