@@ -128,7 +128,10 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
+![](https://github-profile-trophy.vercel.app/?username=Harshaljain04&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 <a href="https://github.com/Harshaljain04">
   <a href="https://git.io/streak-stats">
   <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Harshaljain04&theme=highcontrast&show_icons=true" />
