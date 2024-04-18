@@ -127,7 +127,11 @@
 </div>  
   
 
-<br/>  
+<br/> 
+
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
+</p>
 
 
 ## Github Stats
