@@ -1,8 +1,8 @@
-[![An image of @harshaljain04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshaljain04)](https://holopin.io/@harshaljain04)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+[![An image of @harshaljain04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshaljain04)](https://holopin.io/@harshaljain04)
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
