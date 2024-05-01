@@ -22,16 +22,16 @@
 </div>  
   
 
-### <div align="center">I'm Harshal Jain, an aspiring Full-Stack Software Developer 👨‍💻</div>  
+### <div align="center">I'm Harshal Jain, a Cybersecurity Enthusiast. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on AQI and WQI Monitoring System.  
+- 🔭 I’m currently working on learning new cybersecurity skills.  
   
 
-- 🌱 I’m currently learning C++, Java, Flutter, DSA, OOPs and much more !!  
+- 🌱 I’m currently learning Python, Ethical Hacking, Java, DSA, OOPs and much more !!  
   
 
-- ❓ Ask me about anything related to Web Development, Problem Solving, UI/UX and Fashion too :)  
+- ❓ Ask me about anything related to Cybersecurity, Web Development, Problem Solving, UI/UX and Fashion too :)  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
