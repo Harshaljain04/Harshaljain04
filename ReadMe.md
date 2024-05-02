@@ -19,7 +19,11 @@
 
 <div align="center">
 <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="center" style="width: 100%" />
-</div>  
+</div>
+
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
+</p>
   
 
 ### <div align="center">I'm Harshal Jain, a Cybersecurity Enthusiast. 👨‍💻</div>  
@@ -116,14 +120,12 @@
 <a href="https://medium.com/@harshaljn04" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+<a href="https://medium.com/@harshaljn04" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </div>  
   
 
 <br/> 
-
-<p align="center">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
-</p>
 
 
 ## Github Stats
