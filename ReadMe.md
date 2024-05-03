@@ -29,10 +29,10 @@
 ### <div align="center">I'm Harshal Jain, a Cybersecurity Enthusiast. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on learning new cybersecurity skills.  
+- 🔭 I’m currently working on learning new Cybersecurity skills.  
   
 
-- 🌱 I’m currently learning Python, Ethical Hacking, Java, DSA, OOPs and much more !!  
+- 🌱 I’m currently learning Python, Ethical Hacking, Java, DSA, OOPs, DBMS and much more !!  
   
 
 - ❓ Ask me about anything related to Cybersecurity, Web Development, Problem Solving, UI/UX and Fashion too :)  
