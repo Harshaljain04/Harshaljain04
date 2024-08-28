@@ -29,10 +29,10 @@
 </p>
   
 
-### <div align="center">I'm Harshal Jain, a Cybersecurity Enthusiast. 👨‍💻</div>  
+### <div align="center">I'm Harshal Jain, an AI/ML Developer and a Cybersecurity Enthusiast. 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on learning new Cybersecurity skills.  
+- 🔭 I’m currently working on learning new AI/ML lessons.
   
 
 - 🌱 I’m currently learning Python, Ethical Hacking, Java, DSA, OOPs, DBMS and much more !!  
