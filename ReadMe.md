@@ -29,16 +29,16 @@
 </p>
   
 
-### <div align="center">I'm Harshal Jain, an AI/ML Developer and a Cybersecurity Enthusiast. 👨‍💻</div>  
+### <div align="center">I'm Harshal Jain, an Aspiring Product Manager👨‍💻</div>  
   
 
-- 🔭 I’m currently working on learning new AI/ML lessons.
+- 🔭 I’m currently working on learning new PM techniqes and communication skills.
   
 
-- 🌱 I’m currently learning Python, Ethical Hacking, Java, DSA, OOPs, DBMS and much more !!  
+- 🌱 I’m currently learning Jira, Confluence, System Design, Effective Business Communication and much more !!!
   
 
-- ❓ Ask me about anything related to Cybersecurity, Web Development, Problem Solving, UI/UX and Fashion too :)  
+- ❓ Ask me about anything related to Product Management, Problem Solving, UI/UX and Fashion too :)  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -141,7 +141,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshaljain04&theme=highcontrast&layout=donut&show_icons=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=Harshaljain04&theme=highcontrast&show_icns=true" /></a></p>
   <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshaljain04&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
+<!--   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Harshaljain04&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p> -->
 
 <br/>  
 
